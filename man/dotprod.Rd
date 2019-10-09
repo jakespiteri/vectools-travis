@@ -7,10 +7,10 @@
 dotprod(...)
 }
 \arguments{
-\item{input}{two vectors of equal length.}
+\item{...}{two vectors of equal length.}
 }
 \value{
-dotprod returns the dot product of two vectors. That is \sum\limits_{i=1}^n x_i y_i.
+dotprod returns the dot product of two vectors.
 }
 \description{
 Dot Product

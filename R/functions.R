@@ -2,7 +2,7 @@
 #'
 #' addvecs is used to add multiple vectors elementwise.
 #'
-#' @param input a list of vectors. All inputs must be of equal length.
+#' @param ... a list of vectors. All inputs must be of equal length.
 #'
 #' @return addvecs returns a vector of equal length to the inputs.
 #' @export
@@ -50,9 +50,9 @@ multvecs <- function(...){
 
 #' Dot Product
 #'
-#' @param input two vectors of equal length.
+#' @param ... two vectors of equal length.
 #'
-#' @return dotprod returns the dot product of two vectors. That is \sum\limits_{i=1}^n x_i y_i.
+#' @return dotprod returns the dot product of two vectors.
 #' @export
 #'
 #' @examples temp <- seq(0,10)

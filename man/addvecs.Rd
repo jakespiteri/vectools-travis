@@ -7,7 +7,7 @@
 addvecs(...)
 }
 \arguments{
-\item{input}{a list of vectors. All inputs must be of equal length.}
+\item{...}{a list of vectors. All inputs must be of equal length.}
 }
 \value{
 addvecs returns a vector of equal length to the inputs.
