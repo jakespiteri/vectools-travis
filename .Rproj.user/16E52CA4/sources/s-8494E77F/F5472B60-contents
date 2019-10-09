@@ -1,0 +1,13 @@
+Package: vectortools
+Type: Package
+Title: Vector Tools
+Version: 0.1.0
+Author: Jake Spiteri
+Maintainer: <jake.spiteri@bris.ac.uk>
+Description: This package allows you to add and multiply vectors elementwise, and compute the dot product.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Suggests: 
+    testthat (>= 2.1.0)

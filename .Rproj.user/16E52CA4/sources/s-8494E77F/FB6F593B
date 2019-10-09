@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1570635219868.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FB6F593B",
+    "lastKnownWriteTime" : 1570636602,
+    "last_content_update" : 1570636602464,
+    "path" : "~/Desktop/tb1/Statistical-Computing-1/my_package/vectortools/tests/testthat/test-testfunctions.R",
+    "project_path" : "tests/testthat/test-testfunctions.R",
+    "properties" : {
+        "cursorPosition" : "13,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1570635023794.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2540125440",
+    "id" : "DA661459",
+    "lastKnownWriteTime" : 1570635034,
+    "last_content_update" : 1570635034296,
+    "path" : "~/Desktop/tb1/Statistical-Computing-1/my_package/vectortools/LICENSE.md",
+    "project_path" : "LICENSE.md",
+    "properties" : {
+        "cursorPosition" : "674,0",
+        "scrollLine" : "647",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
